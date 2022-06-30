@@ -1,0 +1,115 @@
+#main{
+    width: 96%;
+    padding: 0% 2% 5% 2%;
+}
+.disable_logo{
+    background-image: url('../img/ydlp_logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 10%;
+    min-height: 50px;
+    max-height: 100px;
+}
+h1, h2, .url, footer{
+    text-align: center;
+}
+h1, h2{
+    color: rgb(0, 135, 255);
+    text-shadow: 1px 1px black;
+}
+h1{
+    margin-top: -10px;
+}
+h2{
+    font-size: 24pt;
+}
+.banner_img{
+    width: 85%;
+    max-height: 400px;
+    min-height: 200px;
+    margin-left: 7.5%;
+}
+.headline{
+    background-color: rgb(0, 135, 255);
+}
+a, a:visited{
+    color: rgb(0, 135, 255);
+}
+.url{
+    background-position-x: 75%;
+    background-repeat: no-repeat;
+    background-size: 20px;
+}
+figure{
+    border: solid 2px black;
+    width: 80%;
+    height: 300px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.playstore_icon{
+    width: 25px;
+    position: relative;
+    top: 10px;
+}
+footer{
+    background-image: url('../img/social-media-1432937__480.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 2%;
+    padding-bottom: 5%;
+    text-shadow: 1px 1px black;
+}
+.j{
+    text-align: justify;
+}
+.c{
+    text-align: center;
+}
+ul{
+    text-align: justify;
+}
+blockquote{
+    font-style: italic;
+    font-size: 10pt;
+}
+.apk_img_container{
+    width:100%;
+    height: 100%;
+}
+.about_apk{
+    background-color: lightblue;
+    padding: 2%;
+}
+.warning{
+    background-color: white;
+    color: red;
+}
+.pay_for_it{
+    text-decoration: line-through;
+    color: white;
+}
+#gerar_pub{
+    background-image: url('../img/career-3536331__480.webp');
+    color: white;
+}
+#gerar_conteudo{
+    background-image: url('../img/career-3449422__480.webp');
+    color: cyan;
+}
+#gerar_pub, #gerar_conteudo{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    text-shadow: 1px 1px black;
+    padding: 10%;
+}
+#referencias{
+    font-size: 10pt;
+}
